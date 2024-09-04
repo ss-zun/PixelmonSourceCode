@@ -23,7 +23,7 @@
 
 ---
 
-![브로셔 게임소개 이미지](https://github.com/user-attachments/assets/ecad94a8-9b20-444a-ba11-ca7178c32996)
+![image](https://github.com/user-attachments/assets/17ff1221-b53a-4db9-b14f-c082beeacafe)
 
 ---
 

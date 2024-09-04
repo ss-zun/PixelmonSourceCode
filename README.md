@@ -23,7 +23,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/1261f457-bcee-4cda-9214-0c71393f495a)
+![브로셔 게임소개 이미지](https://github.com/user-attachments/assets/ecad94a8-9b20-444a-ba11-ca7178c32996)
 
 ---
 
@@ -93,7 +93,7 @@
 
 ## ✨ 기능 소개
 
-![image](https://github.com/user-attachments/assets/109597db-9576-4cd4-8206-32e071e09365)
+![image](https://github.com/user-attachments/assets/979a9a54-9665-495d-87c2-ff3b49d6dbb7)
 
 [📖 목차로 돌아가기](https://github.com/BobBurglar/PixelmonSourceCode/blob/main/README.md#-%EB%AA%A9%EC%B0%A8)
 

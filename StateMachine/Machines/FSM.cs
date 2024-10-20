@@ -5,12 +5,14 @@ public class FSM : MonoBehaviour
 {
     public IState currentState;
 
+    #region ¸â¹ö º¯¼ö
     [Header("Animations")]
     public Animator anim;
     public AnimationData animData = new AnimationData();
 
     public Rigidbody2D rb;
     public GameObject target;
+    #endregion
 
     public virtual void ChangeState(IState newState)
     {
